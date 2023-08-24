@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Animedoro-app/static/css/main.316f5b71.css",
+    "main.js": "/Animedoro-app/static/js/main.7ace59db.js",
+    "static/media/search.png": "/Animedoro-app/static/media/search.b64e89f2441417b62f01.png",
+    "static/media/plus.png": "/Animedoro-app/static/media/plus.3bf541c5fefd1ac5bf94.png",
+    "static/media/garbage.png": "/Animedoro-app/static/media/garbage.d0905d1b9180fc7a11aa.png",
+    "static/media/logo.svg": "/Animedoro-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Animedoro-app/index.html",
+    "main.316f5b71.css.map": "/Animedoro-app/static/css/main.316f5b71.css.map",
+    "main.7ace59db.js.map": "/Animedoro-app/static/js/main.7ace59db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.316f5b71.css",
+    "static/js/main.7ace59db.js"
+  ]
+}
